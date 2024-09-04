@@ -1,4 +1,4 @@
-clc;
+%clc;
 clear;
 figure(5)
 clf(figure(5))
